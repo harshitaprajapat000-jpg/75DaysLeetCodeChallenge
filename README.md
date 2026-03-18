@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0064-minimum-path-sum](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0064-minimum-path-sum) |
 | [0217-contains-duplicate](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
@@ -53,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0064-minimum-path-sum) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
