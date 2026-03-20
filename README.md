@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0064-minimum-path-sum) |
 | [0217-contains-duplicate](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [0322-coin-change](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Hash Table
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0064-minimum-path-sum) |
+| [0322-coin-change](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 ## Matrix
 |  |
 | ------- |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
