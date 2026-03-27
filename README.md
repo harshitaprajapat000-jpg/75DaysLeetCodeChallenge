@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 ## Greedy
 |  |
