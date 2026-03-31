@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 ## Design
@@ -143,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
