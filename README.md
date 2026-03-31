@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0860-lemonade-change](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
+| [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/2874-maximum-value-of-an-ordered-triplet-ii) |
 ## Hash Table
 |  |
 | ------- |
