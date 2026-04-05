@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
 ## Two Pointers
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 ## Math
