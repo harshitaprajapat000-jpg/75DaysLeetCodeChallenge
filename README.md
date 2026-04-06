@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0322-coin-change](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 ## Binary Search
 |  |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 ## Monotonic Stack
 |  |
@@ -173,10 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
