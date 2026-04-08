@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
@@ -188,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
