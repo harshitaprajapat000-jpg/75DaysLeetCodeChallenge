@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [2785-sort-vowels-in-a-string](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/2785-sort-vowels-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0583-delete-operation-for-two-strings](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
+| [2785-sort-vowels-in-a-string](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/2785-sort-vowels-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
