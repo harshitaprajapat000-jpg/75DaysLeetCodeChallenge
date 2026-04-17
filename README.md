@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Monotonic Stack
 |  |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Linked List
 |  |
@@ -224,4 +227,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
