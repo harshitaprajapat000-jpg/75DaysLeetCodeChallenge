@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
 | [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/2874-maximum-value-of-an-ordered-triplet-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Recursion
 |  |
 | ------- |
