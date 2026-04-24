@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/2785-sort-vowels-in-a-string) |
+| [2833-furthest-point-from-origin](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/2833-furthest-point-from-origin) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [2833-furthest-point-from-origin](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/2833-furthest-point-from-origin) |
 ## Quickselect
 |  |
 | ------- |
