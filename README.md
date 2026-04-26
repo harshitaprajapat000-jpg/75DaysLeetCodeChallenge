@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0072-edit-distance) |
@@ -262,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/harshitaprajapat000-jpg/75DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
